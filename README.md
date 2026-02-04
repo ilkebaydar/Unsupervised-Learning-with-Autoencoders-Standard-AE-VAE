@@ -26,6 +26,7 @@ To run this project, you need the following libraries:
 You can install the necessary dependencies using:
 ```bash
 pip install torch numpy matplotlib
+```
 
 ## 🎓 Academic Note
 
